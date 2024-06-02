@@ -1,0 +1,9 @@
+#Headr-section{
+    border: solid black 3px;
+    background-color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 30px;
+    width: 30%;
+    padding: 30px;
+    text-align: center;
+}

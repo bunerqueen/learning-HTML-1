@@ -1,0 +1,27 @@
+h2{
+    border: solid black 2px;
+    background-color: bisque;
+    width: 50%;
+    text-align: center;
+    justify-content: center;
+    margin-left: 100px;
+}
+#label-1{
+    background-color: bisque;
+    border: solid gray 1px;
+}
+
+#label-2{
+    background-color: bisque;
+    border: solid gray 1px;
+    
+}
+#fieldset{
+    background-color: beige;
+}
+#Email{
+    background-color: bisque;
+}
+#label-3{
+    background-color: beige;
+}
